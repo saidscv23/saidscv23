@@ -36,14 +36,12 @@ Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia 
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Profile
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saidscv23&show_icons=true&theme=react&hide_border=true" 
-    alt="GitHub Stats"
-  />
-</p>
+![Followers](https://img.shields.io/github/followers/Saidscv23?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Saidscv23?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Active-success?style=for-the-badge)
+
 
 
 ---
