@@ -40,10 +40,11 @@ Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Saidscv23&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saidscv23&show_icons=true&theme=react&hide_border=true" 
     alt="GitHub Stats"
   />
 </p>
+
 
 ---
 
