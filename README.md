@@ -1,81 +1,82 @@
-👋 Hi there, I’m Said Carrillo
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Web+Systems+%26+Cloud+Deployments" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/> </p>
-👨‍💻 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Said%20Carrillo&fontSize=55&fontColor=ffffff&desc=Full%20Stack%20Software%20Developer&descSize=22&descAlignY=65&color=0:0f2027,50:203a43,100:2c5364" />
+</p>
 
-🎓 Tecnólogo Superior en Desarrollo de Software
-📍 Ibarra – Ecuador
+<h2 align="center">👋 Hola, soy Said Carrillo</h2>
 
-Soy desarrollador Full Stack con experiencia en sistemas web en producción, despliegue en servidores Apache / IIS, bases de datos relacionales y proyectos MVC.
-Trabajo con enfoque en estabilidad, rendimiento y escalabilidad, tanto en backend como frontend.
+<p align="center">
+  <b>Full Stack Software Developer</b> <br>
+  PHP • Laravel • JavaScript • MySQL • MVC • AWS
+</p>
 
-🔹 Experiencia en proyectos reales (institucionales y freelance)
-🔹 Administración básica de infraestructura y cloud (AWS)
-🔹 Control de versiones con Git & GitHub
+<p align="center">
+  <a href="https://portafolio.xo.je"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/saidCarrillo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:saidcarrillo.job@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-🛠️ Tech Stack
+---
 
-Backend
+## 🚀 Sobre mí
 
-PHP, Laravel
+🎓 **Tecnólogo Superior en Desarrollo de Software**  
+📍 Ibarra – Ecuador  
 
-Node.js (básico)
+Desarrollador **Full Stack** con experiencia en **sistemas web en producción**, arquitectura **MVC**, despliegue en servidores **Apache e IIS**, bases de datos relacionales y proyectos **Laravel**.
 
-APIs REST
+Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia en entornos institucionales y proyectos reales.
 
-Frontend
+---
 
-HTML5, CSS3, JavaScript
+## 🧠 Tecnologías
 
-Bootstrap, TailwindCSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,nodejs,mysql,postgres,git,github,aws" />
+</p>
 
-jQuery, AJAX
+---
 
-Databases
+## 📊 GitHub Stats
 
-MySQL, MariaDB, PostgreSQL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saidscv23&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidscv23&layout=compact&theme=react&hide_border=true" height="180"/>
+</p>
 
-Conocimientos básicos en MongoDB
+---
 
-DevOps & Tools
+## 🔥 Racha de contribuciones
 
-Git, GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saidscv23&theme=react&hide_border=true" />
+</p>
 
-Apache, IIS
+---
 
-AWS (IaaS – conceptos)
+## 🧩 Proyectos Destacados
 
-Postman
+### 🛒 NEXASTORE – Plataforma Web de Ventas
+- PHP, JavaScript, MySQL, MVC, AdminLTE  
+- Control de inventario, clientes, ventas y reportes  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saidscv23&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidscv23&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Saidscv23&theme=tokyonight&hide_border=true" /> </p>
-🚀 Featured Projects
+### 🍽️ Sistema Web para Restaurante
+- Gestión de pedidos, cocina y reportes  
+- AJAX, jQuery, PHP, MySQL  
 
-🔹 NEXASTORE – Plataforma Web de Ventas
+### 🏢 Sistema Empresarial (Laravel)
+- Gestión de empleados, facturación y pagos  
+- Arquitectura MVC, Blade  
 
-PHP, JavaScript, MySQL, MVC, AdminLTE
+---
 
-Control de inventario, ventas y reportes
+## 🌎 Contacto
 
-🔹 Sistema Web para Restaurante
+📧 **Email:** saidcarrillo.job@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/saidCarrillo](https://www.linkedin.com/in/saidCarrillo/)  
+🌐 **Portafolio:** https://portafolio.xo.je  
 
-Pedidos, cocina, reportes diarios
+---
 
-AJAX, jQuery, PHP, MySQL
-
-🔹 Sistema Empresarial (Laravel)
-
-Gestión de empleados, facturación y pagos
-
-Arquitectura MVC, Blade
-
-🌐 Contact & Links
-
-📧 Email: saidcarrillo.job@gmail.com
-
-💼 LinkedIn: linkedin.com/in/saidCarrillo
-
-🌍 Portfolio: https://portafolio.xo.je
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer"/> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
+</p>
