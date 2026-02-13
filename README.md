@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Full Stack Software Developer</b> <br>
-  PHP • Laravel • JavaScript • MySQL • MVC • AWS
+  PHP • Laravel • JavaScript • MySQL • MVC 
 </p>
 
 <p align="center">
