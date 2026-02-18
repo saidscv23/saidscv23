@@ -65,7 +65,7 @@ Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia 
 - AJAX, jQuery, PHP, MySQL  
 
 ### 🏢 Sistema Empresarial (Laravel)
-- Gestión de empleados, facturación y pagos  
+- Gestión de clientes de la empresa, facturación y pagos  
 - Arquitectura MVC, Blade  
 
 ---
