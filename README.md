@@ -54,7 +54,7 @@ Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia 
 
 ---
 
-## 🧩 Proyectos Destacados
+## 🧩 Proyectos 
 
 ### 🛒 NEXASTORE – Plataforma Web de Ventas
 - PHP, JavaScript, MySQL, MVC, AdminLTE  
@@ -66,8 +66,15 @@ Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia 
 
 ### 🏢 Sistema Empresarial (Laravel)
 - Gestión de clientes de la empresa, facturación y pagos  
-- Arquitectura MVC, Blade  
+- Arquitectura MVC, Blade
 
+### 🏢 Pagina web (Livingood - Constructura)
+- HTML, CSS, Tailwind, JavaScript
+- (https://livingood.xo.je)
+
+### 🏢 Pagina web (electrovolt - Electricista)
+- HTML, CSS, Tailwind, JavaScript
+- (https://electrovolt.xo.je)
 ---
 
 ## 🌎 Contacto
