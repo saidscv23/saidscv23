@@ -68,11 +68,11 @@ Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia 
 - Gestión de clientes de la empresa, facturación y pagos  
 - Arquitectura MVC, Blade
 
-### 🏢 Pagina web (Livingood - Constructura)
+### 🌐 Pagina web (Livingood - Constructura)
 - HTML, CSS, Tailwind, JavaScript
 - (https://livingood.xo.je)
 
-### 🏢 Pagina web (electrovolt - Electricista)
+### 🌐 Pagina web (electrovolt - Electricista)
 - HTML, CSS, Tailwind, JavaScript
 - (https://electrovolt.xo.je)
 ---
