@@ -31,7 +31,7 @@ Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia 
 ## 🧠 Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,nodejs,mysql,postgres,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,nodejs,mysql,git,github" />
 </p>
 
 ---
