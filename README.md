@@ -81,7 +81,7 @@ Trabajo enfocado en **rendimiento, seguridad y escalabilidad**, con experiencia 
 
 📧 **Email:** saidcarrillo.job@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/saidCarrillo](https://www.linkedin.com/in/saidCarrillo/)  
-🌐 **Portafolio:** https://portafolio.xo.je  
+🌐 **Portafolio:** https://saidscv.vercel.app/ 
 
 ---
 
